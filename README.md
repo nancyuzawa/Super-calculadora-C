@@ -35,6 +35,7 @@ Desenvolvido com o intuito de colocar em prática alguns conceitos aprendido na 
 ## Demonstração
 
 Pequena demonstração do projeto:
+
 ![SuperCalculadora](https://github.com/nancyuzawa/Projetos/assets/110066948/139ec993-4945-4860-8c3d-86a9a877bfc1)
 
 ## Aprendizados
