@@ -19,7 +19,7 @@ Desenvolvimento de uma "calculadora" com diversas funções tais como:
 
 - **Gerador de números randômicos.**
 
-Desenvolvido com o intuito de colocar em prática alguns conceitos aprendido na faculdade sobre a liguagem C.
+Desenvolvido com o intuito de colocar em prática alguns conceitos aprendido na faculdade sobre a linguagem C.
 
 ## Tecnologias e ferramentas utilizadas
 
@@ -29,7 +29,7 @@ Desenvolvido com o intuito de colocar em prática alguns conceitos aprendido na 
 
 - **GIT**: Usando os comandos para comitar as atualizações feitas localmente para o remoto.
 
-- **[img2go](https://www.img2go.com/pt/converter-video-para-gif)**: Para converter o vídeo em gif.
+- **[img2go](https://www.img2go.com/pt/converter-video-para-gif)**: Para converter o vídeo em GIF.
 
 
 ## Demonstração
